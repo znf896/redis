@@ -1,0 +1,8 @@
+bitstring
+cbor
+msgpack
+git+https://github.com/mrnom/phpserialize.git#egg=phpserialize
+rdbtools
+python-lzf
+numpy
+pandas

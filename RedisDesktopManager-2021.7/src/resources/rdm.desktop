@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=RDM
+Comment=RDM
+Type=Application
+Categories=Development;
+Exec=/opt/redis-desktop-manager/rdm.sh
+Terminal=false
+StartupNotify=true
+Icon=rdm
+Keywords=RDM;Redis;
